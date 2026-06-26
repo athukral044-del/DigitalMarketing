@@ -318,7 +318,7 @@ font-weight:800;
 background:
 linear-gradient(
 90deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -635,7 +635,7 @@ font-size:1.2rem;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -676,7 +676,7 @@ animation:float 8s infinite ease-in-out;
 width:250px;
 height:250px;
 
-background:#2563eb;
+background:#39FF14;
 
 top:15%;
 left:10%;
@@ -931,7 +931,7 @@ margin-bottom:25px;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1036,7 +1036,7 @@ font-weight:800;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1325,7 +1325,7 @@ transition:.4s;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1398,7 +1398,7 @@ rgba(37,99,235,.25);
 .pricing-card.featured{
 
 border:
-2px solid #2563eb;
+2px solid #39FF14;
 
 transform:scale(1.05);
 
@@ -1416,7 +1416,7 @@ right:-35px;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1449,7 +1449,7 @@ margin:25px 0;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1509,7 +1509,7 @@ font-weight:600;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1542,7 +1542,7 @@ border-radius:30px;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1876,7 +1876,7 @@ border-radius:50%;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -1966,7 +1966,7 @@ color:white;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -2037,7 +2037,7 @@ text-align:center;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -2192,7 +2192,7 @@ cursor:pointer;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -2315,7 +2315,7 @@ align-items:center;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -2456,7 +2456,7 @@ transition:.4s;
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -2505,7 +2505,7 @@ width:0%;
 background:
 linear-gradient(
 90deg,
-#2563eb,
+#39FF14,
 #06b6d4,
 #f97316
 );
@@ -2591,7 +2591,7 @@ transform:scale(1.1);
 background:
 linear-gradient(
 135deg,
-#2563eb,
+#39FF14,
 #06b6d4
 );
 
@@ -3291,7 +3291,7 @@ left:100%;
 
 ::selection{
 
-background:#2563eb;
+background:#39FF14;
 
 color:white;
 
